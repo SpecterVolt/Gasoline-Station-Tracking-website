@@ -1,0 +1,6 @@
+{
+  "name": "Solano Station Locator",
+  "description": "An interactive gas station locator, live price monitor, and fuel truck logistics telemetry dashboard for Solano fleet and regular drivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
